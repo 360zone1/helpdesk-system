@@ -1,0 +1,11 @@
+ip 111.88.15.29
+
+
+User
+sunshine
+
+password
+a0RrYHT9ZHuKsVfL
+
+
+mongodb+srv://sunshine:a0RrYHT9ZHuKsVfL@cluster0.liyvi9u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
