@@ -18,9 +18,10 @@
 
 "scripts": {
     "start": "node backend/server.js",
-    "build": "npm install --prefix backend && npm run build --prefix frontend",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run build --prefix frontend"
 },
+
+
   "eslintConfig": {
     "extends": [
       "react-app",
